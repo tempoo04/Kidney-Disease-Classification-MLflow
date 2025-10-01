@@ -1,11 +1,13 @@
-Metadata-Version: 1.2
+Metadata-Version: 2.4
 Name: Kidney-Disease-Classification-MLflow
 Version: 0.0.0
 Summary: Python package for CNN app
 Home-page: https://github.com/tempoo04/Kidney-Disease-Classification-MLflow
 Author: ('Turgut Nasrullayev', 'Baljinder Singh')
 Author-email: ('turgut.nasrullayev@gmail.com', 'rajadps98@gmail.com')
-License: UNKNOWN
 Project-URL: Bug Tracker, https://github.com/tempoo04/Kidney-Disease-Classification-MLflow/issues
-Description: UNKNOWN
-Platform: UNKNOWN
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
